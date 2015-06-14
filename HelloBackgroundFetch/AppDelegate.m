@@ -1,6 +1,6 @@
 #import "AppDelegate.h"
 #import "ViewController.h"
-#import <GoogleMaps/GoogleMaps.h>
+@import GoogleMaps;
 
 @implementation AppDelegate
 
